@@ -14,9 +14,9 @@ Atualmente estou cursando Tecnologia da Informação na Universidade Federal do 
 ##
 
 ### Você também me encontra em:
-<div display="inline">
 <a href="https://www.linkedin.com/in/carolina-medeiros-coutinho-bb7824245/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="https://medium.com/@cacamcoutinho">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</div>
+</a>
