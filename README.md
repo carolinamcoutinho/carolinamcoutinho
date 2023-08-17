@@ -2,7 +2,6 @@
 Atualmente estou cursando Tecnologia da Informação na Universidade Federal do Rio Grande do Norte(UFRN).
 
 - 🖥️Focada na área de dados
-- 🏆Apaixonada por esportes
 - 👩‍💻Atualmente maiores conhecimentos em:
 
 <div display="inline">
