@@ -1,7 +1,7 @@
 ### Olá, sou Carolina!
 Sou graduanda do curso Bacharelado de Tecnologia da Informação na Universidade Federal do Rio Grande do Norte(UFRN).
 
-- 🖥️Focada na área de dados
+- 🖥️Focada na área de ciência de dados
 - 👩‍💻Atualmente maiores conhecimentos em:
 
 <div display="inline">
